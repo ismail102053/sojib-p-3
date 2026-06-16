@@ -1,0 +1,7 @@
+
+.nav-link:hover{
+    background-color: azure;
+    color: black !important;
+    border-radius: 5px;
+    transition: 0.3s;
+}
